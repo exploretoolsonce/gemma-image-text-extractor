@@ -1,4 +1,4 @@
-# Image Text Extraction with Gemma
+# Text from Image Extraction with Gemma
 
 This project uses the Gemma model through Ollama to extract text from images and identify highlighted text.
 
